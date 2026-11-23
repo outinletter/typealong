@@ -1,0 +1,13 @@
+.DS_Store
+build/
+DerivedData/
+Pods/
+node_modules/
+*.xcuserstate
+xcuserdata/
+.env*
+*.p8
+*.p12
+*.mobileprovision
+Marketing/App-Review-Reply.txt
+Marketing/review-notes-en.md
